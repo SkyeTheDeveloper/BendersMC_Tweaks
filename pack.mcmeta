@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "pack_format": 32,
+    "supported_formats": [4, 46],
+    "description": "BendersMC Texture Pack Addon"
+  }
+}
