@@ -4,5 +4,11 @@
     "sounds": [
       "item/totem/use"
     ]
-  }
+  },
+  "entity.player.death": {
+      "replace": true,
+      "sounds": [
+        "custom/death"
+      ]
+    }
 }

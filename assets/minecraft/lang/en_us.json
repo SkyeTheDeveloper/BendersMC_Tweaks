@@ -1,3 +1,6 @@
 {
-	"item.minecraft.totem_of_undying": "\u00A76\u00A7l\u00A7oBlitz Totem"
+	"item.minecraft.totem_of_undying": "\u00A76\u00A7l\u00A7oBlitz Totem",
+	"deathScreen.title": "\u00A76\u00A7l\u00A7oGet F**ked!",
+	"deathScreen.respawn": "Get unf**ked",
+	"deathScreen.titleScreen": "Stay f**ked"
 }
