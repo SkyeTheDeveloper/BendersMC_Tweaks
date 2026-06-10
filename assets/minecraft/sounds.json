@@ -1,10 +1,4 @@
 {
-  "item.totem.use": {
-    "replace": true,
-    "sounds": [
-      "item/totem/use"
-    ]
-  },
   "entity.player.death": {
       "replace": true,
       "sounds": [

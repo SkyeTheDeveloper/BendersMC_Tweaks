@@ -3,513 +3,722 @@
   {
 	    "type": "bitmap",
 	    "file": "minecraft:font/mercenary.png",
-	    "ascent": 8,
-	    "height": 8,
+	    "ascent": 7,
+	    "height": 7,
 	    "chars": ["\ue100"]
 	  },
 		{
 	    "type": "bitmap",
 	    "file": "minecraft:font/mogul.png",
-	    "ascent": 8,
-	    "height": 8,
+	    "ascent": 7,
+	    "height": 7,
 	    "chars": ["\ue101"]
 	  },
 		{
 	    "type": "bitmap",
 	    "file": "minecraft:font/nemesis.png",
-	    "ascent": 8,
-	    "height": 8,
+	    "ascent": 7,
+	    "height": 7,
 	    "chars": ["\ue102"]
 	  },
 		{
 	    "type": "bitmap",
 	    "file": "minecraft:font/paladin.png",
-	    "ascent": 8,
-	    "height": 8,
+	    "ascent": 7,
+	    "height": 7,
 	    "chars": ["\ue103"]
 	  },
 		{
 	    "type": "bitmap",
 	    "file": "minecraft:font/pathfinder.png",
-	    "ascent": 8,
-	    "height": 8,
+	    "ascent": 7,
+	    "height": 7,
 	    "chars": ["\ue104"]
 	  },
 		{
 	    "type": "bitmap",
 		  "file": "minecraft:font/tycoon.png",
-		  "ascent": 8,
-	    "height": 8,
+		  "ascent": 7,
+	    "height": 7,
 	    "chars": ["\ue105"]
 		  },
 		{
 	    "type": "bitmap",
 	    "file": "minecraft:font/warden.png",
-		  "ascent": 8,
-		  "height": 8,
+		  "ascent": 7,
+		  "height": 7,
 	    "chars": ["\ue106"]
 	  },
 		{
 	    "type": "bitmap",
 	    "file": "minecraft:font/wraith.png",
-		  "ascent": 8,
-		  "height": 8,
+		  "ascent": 7,
+		  "height": 7,
     "chars": ["\ue107"]
 		},
 	  {
 	    "type": "bitmap",
 	    "file": "minecraft:font/scorched_founder.png",
-	    "ascent": 8,
-	    "height": 8,
+	    "ascent": 7,
+	    "height": 7,
 	    "chars": ["\ue10b"]
 	  },
     {
       "type": "bitmap",
-      "file": "minecraft:font/unamused.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\ue458"]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/corn_god.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\ue459"]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/lgbbq.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\ue5b7"]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/heart_founder.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\ue6ac"]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/winter_founder.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\ue6ad"]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/owner.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\ue800"]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/manager.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\ue801"]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/admin.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\ue802"]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/project_lead.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\ue803"]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/dev_advisor.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\ue804"]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/head_dev.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\ue805"]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/sr_dev.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\ue806"]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/dev.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\ue807"]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/jr_dev.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\ue808"]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/staff_supervisor.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\ue809"]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/mentor.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\ue80a"]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/sr_mod.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\ue80b"]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/mod.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\ue80c"]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/jr_mod.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\ue80d"]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/trainee.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\ue80e"]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/build_supervisor.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\ue80f"]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/adept_builder.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\ue810"]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/sr_builder.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\ue811"]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/builder.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\ue812"]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/jr_builder.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\ue813"]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/dallama.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\ue814"]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/media.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\ue815"]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/founder.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\ue816"]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/titan.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\ue817"]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/avatar.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\ue818"]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/master.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\ue819"]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/expert.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\ue81a"]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/pro.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\ue81b"]
+      "file": "minecraft:font/vip.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE81D"
+      ]
     },
     {
       "type": "bitmap",
       "file": "minecraft:font/mvp.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\ue81c"]
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE81C"
+      ]
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/vip.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\ue81d"]
+      "file": "minecraft:font/pro.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE81B"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/expert.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE81A"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/master.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE819"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/avatar.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE818"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/titan.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE817"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/founder.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE816"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/media.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE815"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/trainee.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE80E"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/jr_mod.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE80D"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/mod.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE80C"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/sr_mod.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE80B"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/mentor.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE80A"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/supervisor.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE809"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/admin.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE802"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/manager.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE801"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/owner.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE800"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/jr_builder.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE813"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/builder.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE812"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/sr_builder.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE811"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/adept_builder.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE810"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/build_supervisor.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE80F"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/jr_dev.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE808"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/dev.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE807"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/sr_dev.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE806"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/head_dev.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE805"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/dev_advisor.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE804"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/dallama.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE814"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/project_lead.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE803"
+      ]
     },
     {
       "type": "bitmap",
       "file": "minecraft:font/bender.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\ue81e"]
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE81E"
+      ]
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/aniversary_founder.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\ue81f"]
+      "file": "minecraft:font/foundergold.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE81F"
+      ]
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/not_for_you.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\ue860"]
+      "file": "minecraft:font/pinkfounder.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE6AC"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/valfounder.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uF1F8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/winterfounder.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE6AD"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/notforyou.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE860"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/rank.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE874"
+      ]
     },
     {
       "type": "bitmap",
       "file": "minecraft:font/monopolist.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\ue870"]
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE870"
+      ]
     },
     {
       "type": "bitmap",
       "file": "minecraft:font/powerbroker.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\ue871"]
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE871"
+      ]
     },
     {
       "type": "bitmap",
       "file": "minecraft:font/reaper.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\ue872"]
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE872"
+      ]
     },
     {
       "type": "bitmap",
       "file": "minecraft:font/voyager.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\ue873"]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/actiongenius.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\ue874"]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/shamrock_founder.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\uea3d"]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/media_i.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\uefa0"]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/media_ii.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\uefa1"]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/media_iii.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\uefa2"]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/influencer.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\uefa3"]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/rose_founder.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\uf1f8"]
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE873"
+      ]
     },
     {
       "type": "bitmap",
       "file": "minecraft:font/santa.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\uf539"]
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uF034"
+      ]
     },
     {
       "type": "bitmap",
       "file": "minecraft:font/designer.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\uf53a"]
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uF024"
+      ]
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/white_bender.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\uf670"]
+      "file": "minecraft:font/featherbender.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uF670"
+      ]
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/white_vip.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\uf671"]
+      "file": "minecraft:font/feathervip.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uF671"
+      ]
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/white_mvp.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\uf672"]
+      "file": "minecraft:font/feathermvp.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uF672"
+      ]
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/white_pro.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\uf673"]
+      "file": "minecraft:font/featherpro.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uF673"
+      ]
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/white_expert.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\uf674"]
+      "file": "minecraft:font/featherexpert.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uF674"
+      ]
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/white_avatar.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\uf676"]
+      "file": "minecraft:font/feathermaster.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uF695"
+      ]
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/white_titan.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\uf677"]
+      "file": "minecraft:font/featheravatar.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uF676"
+      ]
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/white_master.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\uf695"]
+      "file": "minecraft:font/feathertitan.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uF677"
+      ]
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/white_founder.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\uf6a5"]
+      "file": "minecraft:font/featherfounder.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uF6A5"
+      ]
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/immortal.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\uf6ea"]
+      "file": "minecraft:font/unamused.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE458"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/corndog.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE459"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/lgbbq.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE5B7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/shamrockfounder.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uEA3D"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/media1.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uEFA0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/media2.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uEFA1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/media3.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uEFA2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/influencer.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uEFA3"
+      ]
     },
     {
       "type": "bitmap",
       "file": "minecraft:font/architect.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\uf820"]
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uF820"
+      ]
     },
     {
       "type": "bitmap",
       "file": "minecraft:font/warlord.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\uf821"]
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uF821"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/immortal.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uF6EA"
+      ]
     },
     {
       "type": "bitmap",
       "file": "minecraft:font/juggernaut.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\ud81a\udcc2"]
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uD81A\uDCC2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/scorched_founder.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE10B"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/mercenary.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE100"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/mogul.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE101"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/nemesis.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE102"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/paladin.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE103"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/pathfinder.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE104"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/tycoon.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE105"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/warden.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE106"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/wraith.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uE107"
+      ]
     }
   ]
 }
