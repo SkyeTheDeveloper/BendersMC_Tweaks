@@ -3,6 +3,13 @@
       "replace": true,
       "sounds": [
         "custom/death"
+      ],
+      "attenuation_distance": 5
+    },
+  "item.totem.use": {
+      "replace": true,
+      "sounds": [
+        "custom/totem"
       ]
-    }
+  }
 }
