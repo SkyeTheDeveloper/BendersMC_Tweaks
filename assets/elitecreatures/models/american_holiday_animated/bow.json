@@ -2,11 +2,10 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "elitecreatures:american_holiday_animated/americanholiday_texture1",
-		"1": "elitecreatures:american_holiday_animated/americanholiday_animation1",
-		"2": "elitecreatures:american_holiday_animated/americanholiday_animation2",
-		"3": "elitecreatures:american_holiday_animated/americanholiday_animation3",
-		"particle": "elitecreatures:american_holiday_animated/americanholiday_texture1"
+		"0": "elitecreatures:america250/america250_texturesheet",
+		"1": "elitecreatures:america250/america250_animation1",
+		"2": "elitecreatures:america250/america250_animation2",
+		"particle": "elitecreatures:america250/america250_texturesheet"
 	},
 	"elements": [
 		{
@@ -306,45 +305,6 @@
 				"west": {"uv": [0, 0, 0, 0.625], "texture": "#missing"},
 				"up": {"uv": [0, 0, 0.625, 0], "texture": "#missing"},
 				"down": {"uv": [0, 0, 0.625, 0], "texture": "#missing"}
-			}
-		},
-		{
-			"from": [8, 17.5, -2],
-			"to": [8, 25.5, 2],
-			"rotation": {"angle": -45, "axis": "x", "origin": [8, 21.5, 0]},
-			"faces": {
-				"north": {"uv": [0, 0, 0, 8], "texture": "#3"},
-				"east": {"uv": [10, 0, 14, 8], "texture": "#3"},
-				"south": {"uv": [0, 0, 0, 8], "texture": "#3"},
-				"west": {"uv": [0, 0, 4, 8], "texture": "#3"},
-				"up": {"uv": [0, 12, 0, 0], "texture": "#3"},
-				"down": {"uv": [0, 0, 0, 12], "texture": "#3"}
-			}
-		},
-		{
-			"from": [8, 18.5, 4],
-			"to": [8, 26.5, 9],
-			"rotation": {"angle": -22.5, "axis": "x", "origin": [6, 18.5, 0]},
-			"faces": {
-				"north": {"uv": [0, 0, 0, 8], "texture": "#3"},
-				"east": {"uv": [4.5, 0, 9.5, 8], "texture": "#3"},
-				"south": {"uv": [0, 0, 0, 8], "texture": "#3"},
-				"west": {"uv": [4.5, 0, 9.5, 8], "texture": "#3"},
-				"up": {"uv": [0, 12, 0, 0], "texture": "#3"},
-				"down": {"uv": [0, 0, 0, 12], "texture": "#3"}
-			}
-		},
-		{
-			"from": [8, 21.7, 8],
-			"to": [8, 29.7, 12],
-			"rotation": {"angle": 0, "axis": "y", "origin": [6, 21.7, -1]},
-			"faces": {
-				"north": {"uv": [0, 0, 0, 8], "texture": "#3"},
-				"east": {"uv": [0, 0, 4, 8], "texture": "#3"},
-				"south": {"uv": [0, 0, 0, 8], "texture": "#3"},
-				"west": {"uv": [10, 0, 14, 8], "texture": "#3"},
-				"up": {"uv": [0, 12, 0, 0], "texture": "#3"},
-				"down": {"uv": [0, 0, 0, 12], "texture": "#3"}
 			}
 		}
 	],
