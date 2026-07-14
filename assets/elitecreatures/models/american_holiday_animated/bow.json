@@ -2,10 +2,10 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "elitecreatures:america250/america250_texturesheet",
-		"1": "elitecreatures:america250/america250_animation1",
-		"2": "elitecreatures:america250/america250_animation2",
-		"particle": "elitecreatures:america250/america250_texturesheet"
+		"0": "elitecreatures:american_holiday_animated/americanholiday_texture1",
+		"1": "elitecreatures:american_holiday_animated/americanholiday_animation1",
+		"2": "elitecreatures:american_holiday_animated/americanholiday_animation2",
+		"particle": "elitecreatures:american_holiday_animated/americanholiday_texture1"
 	},
 	"elements": [
 		{
@@ -337,8 +337,8 @@
 		},
 		"gui": {
 			"rotation": [-90, 135, 90],
-			"translation": [-1, 1, 0],
-			"scale": [0.4, 0.4, 0.4]
+			"translation": [-0.875, 0.875, 0],
+			"scale": [0.45, 0.45, 0.45]
 		},
 		"head": {
 			"rotation": [91, -1, 90],
