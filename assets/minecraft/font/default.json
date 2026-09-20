@@ -245,6 +245,15 @@
     },
     {
       "type": "bitmap",
+      "file": "minecraft:font/dev_admin.png",
+      "height": 9,
+      "ascent": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "minecraft:font/dev_advisor.png",
       "height": 9,
       "ascent": 8,
