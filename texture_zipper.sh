@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-readonly CURRENT_VERSION="1.3.0"
+readonly CURRENT_VERSION="1.3.1"
 readonly MIN_MC_VERSION="26.2"
 readonly MAX_MC_VERSION="26.3"
 readonly FILE_NAME="BendersMC_Tweaks-${CURRENT_VERSION}-${MIN_MC_VERSION}_${MAX_MC_VERSION}.zip"

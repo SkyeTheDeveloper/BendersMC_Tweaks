@@ -1,9 +1,9 @@
 @echo off
 setlocal enabledelayedexpansion
 
-set "CURRENT_VERSION=1.2.3"
-set "MIN_MC_VERSION=26.1"
-set "MAX_MC_VERSION=26.2"
+set "CURRENT_VERSION=1.3.1"
+set "MIN_MC_VERSION=26.2"
+set "MAX_MC_VERSION=26.3"
 set "FILE_NAME=BendersMC_Tweaks-%CURRENT_VERSION%-%MIN_MC_VERSION%_%MAX_MC_VERSION%.zip"
 set "FILE_DESTINATION=zipped_packs"
 
