@@ -683,6 +683,15 @@
       "chars": [
         ""
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/halloweenfounder2025.png",
+      "height": 9,
+      "ascent": 8,
+      "chars": [
+        ""
+      ]
     }
   ]
 }
